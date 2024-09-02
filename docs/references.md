@@ -1,0 +1,17 @@
+# References
+
+1. [A Comprehensive Systematic Review of YOLO for Medical Object Detection (2018 to 2023)](https://ieeexplore.ieee.org/document/10494845)
+2. [An operation site security detection method based on point cloud data and improved YOLO algorithm under the architecture of the power internet of things](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/tje2.12344)
+3. [Multi Camera Localization Handover Based on YOLO Object Detection Algorithm in Complex Environments](https://www.researchgate.net/publication/377642652_Multi_camera_localization_handover_based_on_YOLO_object_detection_algorithm_in_complex_environments)
+4. [A survey on deep learning-based real-time crowd anomaly detection for secure distributed video surveillance](https://link.springer.com/article/10.1007/s00779-021-01586-5)
+5. [An improved deep learning‐based optimal object detection system from images](https://link.springer.com/article/10.1007/s11042-023-16736-5)
+6. [Non-permissible Mobile Detection to Enhance Security in Bangladeshi Museum: A Multiprocess YOLO-Based Approach](https://www.researchgate.net/publication/380824123_Non-permissible_Mobile_Detection_to_Enhance_Security_in_Bangladeshi_Museum_A_Multiprocess_YOLO-Based_Approach)
+7. [YOLO‐based Object Detection Models: A Review and its Applications](https://link.springer.com/article/10.1007/s11042-024-18872-y)
+8. [Implementation of IoT-Based Facial Recognition for Home Security System Using Raspberry Pi and Mobile Application](https://www.researchgate.net/publication/383222648_Implementation_of_IoT-Based_Facial_Recognition_for_Home_Security_System_Using_Raspberry_Pi_and_Mobile_Application)
+9. [Real-time Object Detection for Substation Security Early-warning with Deep Neural Network based on YOLO-V5](https://ieeexplore.ieee.org/abstract/document/9872338)
+10. [Detection and Recognition of Security Detection Object Based on Yolo9000](https://ieeexplore.ieee.org/abstract/document/8599420)
+11. [A study on various methods used for video summarization and moving object detection for video surveillance applications](https://link.springer.com/article/10.1007/s11042-018-5671-8)
+12. [Moving Object Detection, Tracking and Classification for Smart Video Surveillance](https://www.proquest.com/openview/31d76a1010fbc26ddfadebecebb2fd80/1?pq-origsite=gscholar&cbl=2026366&diss=y)
+13. [Object Detection and Tracking Approaches for Video Surveillance Over Camera Network](https://ieeexplore.ieee.org/abstract/document/8728518)
+14. [An efficient multiple object detection and tracking framework for automatic counting and video surveillance applications](https://ieeexplore.ieee.org/abstract/document/6311328)
+15. [Suspicious object detection in surveillance videos for security applications](https://ieeexplore.ieee.org/abstract/document/7823224)
