@@ -1,0 +1,27 @@
+{% extends "layout.html" %}
+{% block title %}Index{% endblock %}
+{% block head %}
+{{ super() }}
+<style type="text/css">
+    .important {
+        color: #336699;
+    }
+</style>
+{% endblock %}
+{% block content %}
+<div class="flex flex-col min-h-screen items-center justify-center">
+    <h1 class="text-5xl font-bold">Model Testing</h1>
+    <h2 class="text-xl">
+        Enhancing Home Security: An Analysis of User - Centered Design in AI Surveillance Systems
+    </h2>
+    <body>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8  offset-lg-2">
+                    <img src="{{ url_for('video_feed') }}" width="100%">
+                </div>
+            </div>
+        </div>
+    </body>
+</div>
+{% endblock %}
