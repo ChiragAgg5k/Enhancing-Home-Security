@@ -1,0 +1,16 @@
+# Dataset paths
+train: 
+  - guns/train/images
+  - knives/train/images
+val: 
+  - guns/valid/images
+  - knives/valid/images
+test: 
+  - guns/test/images
+  - knives/test/images
+
+# Number of classes
+nc: 2
+
+# Class names
+names: ['gun', 'Knife']

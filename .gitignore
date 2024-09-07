@@ -27,3 +27,10 @@ bst/
 
 paper.md
 paper.pdf
+
+# Obsidian
+.obsidian
+
+# ML
+runs/
+datasets/
