@@ -1,3 +1,8 @@
-ultralytics==8.2.89
-ipython==8.14.0
-flask==2.3.2
+Flask==3.0.3
+opencv_contrib_python==4.10.0.84
+opencv_python==4.10.0.84
+opencv_python_headless==4.10.0.84
+ultralytics==8.2.90
+ipython==8.27.0
+comet_ml==3.45.0
+python-dotenv==1.0.1
