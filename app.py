@@ -8,12 +8,15 @@ classNames = ["ammo", "firearm", "grenade", "knife", "pistol", "rocket"]
 app = Flask(__name__)
 camera = cv2.VideoCapture(0)
 
-model = YOLO("YOLO_ThreatDetection_v1.0.pt")
+model_name = "yolov8n"
+model = YOLO(f"models/{model_name}_threat_detection.pt")
 
 def gen_frames():
     while True:
         success, frame = camera.read()
         results = model(frame, stream=True)
+
+        frame = cv2.flip(frame, 1)
 
         for r in results:
             boxes = r.boxes
@@ -30,12 +33,9 @@ def gen_frames():
                 cv2.rectangle(frame, (x1, y1), (x2, y2), (255, 0, 255), 3)
 
                 confidence = math.ceil((box.conf[0] * 100)) / 100
-                print("Confidence --->", confidence)
 
                 cls = int(box.cls[0])
                 classname = classNames[cls] if cls < len(classNames) else "Unknown"
-                print("Cls -->", box.cls)
-                print("Class name -->", classname)
 
                 org = [x1, y1]
                 font = cv2.FONT_HERSHEY_SIMPLEX
