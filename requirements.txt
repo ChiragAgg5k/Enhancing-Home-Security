@@ -6,3 +6,4 @@ ultralytics==8.2.90
 ipython==8.27.0
 comet_ml==3.45.0
 python-dotenv==1.0.1
+supervision==0.23.0

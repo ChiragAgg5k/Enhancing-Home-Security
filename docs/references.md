@@ -1,7 +1,7 @@
 # References
 
 1. [A review of securing home using video surveillance.](https://www.ijsr.net/archive/v3i5/MDIwMTMxOTkw.pdf)
-2. . [A Comprehensive Systematic Review of YOLO for Medical Object Detection (2018 to 2023)](https://ieeexplore.ieee.org/document/10494845)
+2. [A Comprehensive Systematic Review of YOLO for Medical Object Detection (2018 to 2023)](https://ieeexplore.ieee.org/document/10494845)
 3. [An operation site security detection method based on point cloud data and improved YOLO algorithm under the architecture of the power internet of things](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/tje2.12344)
 4. [Multi Camera Localization Handover Based on YOLO Object Detection Algorithm in Complex Environments](https://www.researchgate.net/publication/377642652_Multi_camera_localization_handover_based_on_YOLO_object_detection_algorithm_in_complex_environments)
 5. [A survey on deep learning-based real-time crowd anomaly detection for secure distributed video surveillance](https://link.springer.com/article/10.1007/s00779-021-01586-5)
