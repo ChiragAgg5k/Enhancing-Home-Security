@@ -39,3 +39,6 @@ paper.docx
 # ML
 runs/
 datasets/
+
+# Script
+training.py
